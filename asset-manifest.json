@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vkgaming/static/css/main.d6050b32.css",
-    "main.js": "/vkgaming/static/js/main.39aae775.js",
-    "static/media/background_01.png": "/vkgaming/static/media/background_01.94012aadf4eab779913c.png",
-    "static/media/graf-logo-black-removebg.png": "/vkgaming/static/media/graf-logo-black-removebg.5e81e725911c197e10fb.png",
-    "static/media/logo.png": "/vkgaming/static/media/logo.3ca05f27642bb1896b22.png",
-    "index.html": "/vkgaming/index.html",
-    "main.d6050b32.css.map": "/vkgaming/static/css/main.d6050b32.css.map",
-    "main.39aae775.js.map": "/vkgaming/static/js/main.39aae775.js.map"
+    "main.css": "./static/css/main.4f576c63.css",
+    "main.js": "./static/js/main.9fc2e4de.js",
+    "static/media/background_01.png": "./static/media/background_01.94012aadf4eab779913c.png",
+    "static/media/graf-logo-black-removebg.png": "./static/media/graf-logo-black-removebg.5e81e725911c197e10fb.png",
+    "static/media/logo.png": "./static/media/logo.3ca05f27642bb1896b22.png",
+    "index.html": "./index.html",
+    "main.4f576c63.css.map": "./static/css/main.4f576c63.css.map",
+    "main.9fc2e4de.js.map": "./static/js/main.9fc2e4de.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6050b32.css",
-    "static/js/main.39aae775.js"
+    "static/css/main.4f576c63.css",
+    "static/js/main.9fc2e4de.js"
   ]
 }
