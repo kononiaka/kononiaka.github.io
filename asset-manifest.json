@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.4f576c63.css",
-    "main.js": "./static/js/main.9fc2e4de.js",
-    "static/media/background_01.png": "./static/media/background_01.94012aadf4eab779913c.png",
-    "static/media/graf-logo-black-removebg.png": "./static/media/graf-logo-black-removebg.5e81e725911c197e10fb.png",
-    "static/media/logo.png": "./static/media/logo.3ca05f27642bb1896b22.png",
-    "index.html": "./index.html",
-    "main.4f576c63.css.map": "./static/css/main.4f576c63.css.map",
-    "main.9fc2e4de.js.map": "./static/js/main.9fc2e4de.js.map"
+    "main.css": "/static/css/main.45646c2c.css",
+    "main.js": "/static/js/main.ca684f6f.js",
+    "static/media/background_01.png": "/static/media/background_01.94012aadf4eab779913c.png",
+    "static/media/graf-logo-black-removebg.png": "/static/media/graf-logo-black-removebg.5e81e725911c197e10fb.png",
+    "static/media/logo.png": "/static/media/logo.3ca05f27642bb1896b22.png",
+    "index.html": "/index.html",
+    "main.45646c2c.css.map": "/static/css/main.45646c2c.css.map",
+    "main.ca684f6f.js.map": "/static/js/main.ca684f6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f576c63.css",
-    "static/js/main.9fc2e4de.js"
+    "static/css/main.45646c2c.css",
+    "static/js/main.ca684f6f.js"
   ]
 }
