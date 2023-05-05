@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.4f576c63.css",
-    "main.js": "./static/js/main.727dedb5.js",
+    "main.css": "./static/css/main.6ae3746e.css",
+    "main.js": "./static/js/main.004af5e3.js",
     "static/media/background_01.png": "./static/media/background_01.94012aadf4eab779913c.png",
     "static/media/graf-logo-black-removebg.png": "./static/media/graf-logo-black-removebg.5e81e725911c197e10fb.png",
     "static/media/logo.png": "./static/media/logo.3ca05f27642bb1896b22.png",
+    "static/media/viber_bcg.png": "./static/media/viber_bcg.5e77994f6db9b446775a.png",
+    "static/media/help_icon.png": "./static/media/help_icon.308c985cdfe4a8274954.png",
+    "static/media/phone-call.png": "./static/media/phone-call.d35848942c955a6232b3.png",
+    "static/media/email.png": "./static/media/email.2a8693d3a2247c95626c.png",
     "index.html": "./index.html",
-    "main.4f576c63.css.map": "./static/css/main.4f576c63.css.map",
-    "main.727dedb5.js.map": "./static/js/main.727dedb5.js.map"
+    "main.6ae3746e.css.map": "./static/css/main.6ae3746e.css.map",
+    "main.004af5e3.js.map": "./static/js/main.004af5e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f576c63.css",
-    "static/js/main.727dedb5.js"
+    "static/css/main.6ae3746e.css",
+    "static/js/main.004af5e3.js"
   ]
 }
