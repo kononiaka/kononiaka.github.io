@@ -1,28 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.16150572.css",
-    "main.js": "./static/js/main.7aa40771.js",
-    "static/media/silver_global_trade.png": "./static/media/silver_global_trade.084651467bc29a06acbd.png",
-    "static/media/logo.png": "./static/media/logo.88e177f57bff55a3d04a.png",
-    "static/media/laptop.png": "./static/media/laptop.0427e62868aa71e777c5.png",
-    "static/media/person.jpeg": "./static/media/person.8951137b453648a4edfc.jpeg",
-    "static/media/congrats.jpg": "./static/media/congrats.a9478875979a585ab9b5.jpg",
+    "main.css": "./static/css/main.ab2015d7.css",
+    "main.js": "./static/js/main.a2283365.js",
+    "static/media/background_01.png": "./static/media/background_01.94012aadf4eab779913c.png",
     "static/media/graf-logo-black-removebg.png": "./static/media/graf-logo-black-removebg.5e81e725911c197e10fb.png",
-    "static/media/img-1.png": "./static/media/img-1.3f3c1f4b1808e66a2b60.png",
-    "static/media/viber_bcg.png": "./static/media/viber_bcg.5e77994f6db9b446775a.png",
+    "static/media/logo.png": "./static/media/logo.3ca05f27642bb1896b22.png",
     "static/media/help_icon.png": "./static/media/help_icon.308c985cdfe4a8274954.png",
-    "static/media/phone-call.png": "./static/media/phone-call.d35848942c955a6232b3.png",
     "static/media/email.png": "./static/media/email.2a8693d3a2247c95626c.png",
-    "static/media/twitter_wh.svg": "./static/media/twitter_wh.4a24ef5104c7457f1fe37164aa7a6d97.svg",
     "index.html": "./index.html",
-    "static/media/youtube_wh.svg": "./static/media/youtube_wh.0c1fbc5bb4bbb8a5515eb5f90979693f.svg",
     "static/media/facebook.svg": "./static/media/facebook.72e5206145c3fa1edce9.svg",
-    "static/media/patreon_wh.svg": "./static/media/patreon_wh.b4ab3a9249c102b39b670a7c3380f400.svg",
-    "main.16150572.css.map": "./static/css/main.16150572.css.map",
-    "main.7aa40771.js.map": "./static/js/main.7aa40771.js.map"
+    "main.ab2015d7.css.map": "./static/css/main.ab2015d7.css.map",
+    "main.a2283365.js.map": "./static/js/main.a2283365.js.map"
   },
   "entrypoints": [
-    "static/css/main.16150572.css",
-    "static/js/main.7aa40771.js"
+    "static/css/main.ab2015d7.css",
+    "static/js/main.a2283365.js"
   ]
 }
