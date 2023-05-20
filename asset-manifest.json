@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.6572662d.css",
-    "main.js": "./static/js/main.08491132.js",
+    "main.css": "./static/css/main.95aa9774.css",
+    "main.js": "./static/js/main.bf6adf38.js",
     "static/media/background_01.png": "./static/media/background_01.94012aadf4eab779913c.png",
     "static/media/graf-logo-black-removebg.png": "./static/media/graf-logo-black-removebg.5e81e725911c197e10fb.png",
     "static/media/logo.png": "./static/media/logo.1487916dbf4eee026e6f.png",
@@ -12,11 +12,11 @@
     "static/media/email.png": "./static/media/email.2a8693d3a2247c95626c.png",
     "index.html": "./index.html",
     "static/media/facebook.svg": "./static/media/facebook.72e5206145c3fa1edce9.svg",
-    "main.6572662d.css.map": "./static/css/main.6572662d.css.map",
-    "main.08491132.js.map": "./static/js/main.08491132.js.map"
+    "main.95aa9774.css.map": "./static/css/main.95aa9774.css.map",
+    "main.bf6adf38.js.map": "./static/js/main.bf6adf38.js.map"
   },
   "entrypoints": [
-    "static/css/main.6572662d.css",
-    "static/js/main.08491132.js"
+    "static/css/main.95aa9774.css",
+    "static/js/main.bf6adf38.js"
   ]
 }
